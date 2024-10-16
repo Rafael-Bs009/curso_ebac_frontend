@@ -1,0 +1,15 @@
+{
+  "name": "boas-praticas-de-css",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass bem/main.scss bem/main.css --watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "sass": "^1.79.5"
+  }
+}
